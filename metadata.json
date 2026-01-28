@@ -1,0 +1,5 @@
+{
+  "name": "EduTask Management System",
+  "description": "Sistem manajemen tugas akademik berbasis web untuk program studi dengan penilaian otomatis, dashboard admin & mahasiswa, dan integrasi Supabase.",
+  "requestFramePermissions": []
+}
